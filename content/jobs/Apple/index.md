@@ -2,7 +2,7 @@
 date: '2017-12-21'
 title: 'Nabeel Akram'
 company: 'Nabeel Akram'
-location: 'Cupertino, CA'
+location: 'Nabeel, CA'
 range: 'July - December 2017'
 url: 'https://www.apple.com/music/'
 ---
