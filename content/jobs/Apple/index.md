@@ -1,7 +1,7 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
+title: 'Nabeel Akram'
+company: 'Nabeel Akram'
 location: 'Cupertino, CA'
 range: 'July - December 2017'
 url: 'https://www.apple.com/music/'
